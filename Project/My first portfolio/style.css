@@ -14,7 +14,7 @@ section{
    
 }
 .half-width{
-   width: 40%;
+   width: 60%;
  float: left;
     margin-left: 5%;
     padding-left: 2%;
@@ -29,7 +29,8 @@ h1{
     font-size: 50px;
 }
 h1 span{
-    color: orange;} 
+    color: orange;
+} 
 
 .anchor-button{
         text-decoration: none;
